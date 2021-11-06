@@ -22,6 +22,6 @@ deploy:
   provider: heroku
   api_key: $HEROKU_API_KEY
   edge: true 
-  app: 53de458e-158d-4921-8f49-e08b23f65d34
+  app: devops-dtrindade
   on:
       branch: main
