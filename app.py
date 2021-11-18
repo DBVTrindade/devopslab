@@ -11,10 +11,3 @@ def pagina_inicial():
 
 if __name__ == '__main__':
     app.run()
-
-@app.route("/")
-def pagina_inicial():
-    return "Hello World Customizado"
-
-if __name__ == '__main__':
-    app.run()
