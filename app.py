@@ -5,7 +5,6 @@ import os
 app = Flask(__name__)
 
 csrf = CSRFProtect(app)
-
 @app.route("/")
 def pagina_inicial():
     return "Laboratório DevOps - FIAP 8ASO v02"
