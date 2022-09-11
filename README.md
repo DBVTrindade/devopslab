@@ -1,7 +1,4 @@
 ## devopslab
-
-
-[![Build Status](https://app.travis-ci.com/DBVTrindade/devopslab.svg?branch=main)](https://app.travis-ci.com/DBVTrindade/devopslab)
-
 ## Frase
-Laboratório DevOps
+Aplicação Simples em Paython/Flask com teste 
+usando Unittest integrado em GitHubAction
